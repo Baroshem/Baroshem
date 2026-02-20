@@ -9,4 +9,4 @@ I’m recognized as:
 - ⭐ **Storyblok MVP**
 - 🧭 Ambassador for **Algolia**, **Cloudinary**, and **Supabase**
 
-Beyond coding, I am a D&D Dungeon Master 🐉, Technical Diver 🤿, and Cat Person 🐱.
+Beyond coding, I am a D&D Dungeon Master 🐉, Technical Diver 🤿, and Traveler ✈️.
